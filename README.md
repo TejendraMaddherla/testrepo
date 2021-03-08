@@ -1,1 +1,1 @@
-# testrepo
+print("test repository")
